@@ -171,9 +171,3 @@ Support multi-step user clarifications (follow-up Q&A).
 Add caching for repeated prompts to reduce API calls.
 
 Please open issues or PRs with a clear description of changes.
-
-📜 License
-
-Add your chosen license here (e.g., MIT). Example:
-
-MIT License
